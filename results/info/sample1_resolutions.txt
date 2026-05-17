@@ -1,0 +1,13 @@
+data/sample1.mcool::/resolutions/1000
+data/sample1.mcool::/resolutions/2000
+data/sample1.mcool::/resolutions/5000
+data/sample1.mcool::/resolutions/10000
+data/sample1.mcool::/resolutions/25000
+data/sample1.mcool::/resolutions/50000
+data/sample1.mcool::/resolutions/100000
+data/sample1.mcool::/resolutions/250000
+data/sample1.mcool::/resolutions/500000
+data/sample1.mcool::/resolutions/1000000
+data/sample1.mcool::/resolutions/2500000
+data/sample1.mcool::/resolutions/5000000
+data/sample1.mcool::/resolutions/10000000

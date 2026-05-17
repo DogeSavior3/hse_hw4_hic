@@ -1,0 +1,6 @@
+Sample: sample1
+URI: data/sample1.mcool::/resolutions/10000
+Chromosome: chr2
+Region: chr2:10000000-11000000
+Balanced chromosome matrix shape: (24220, 24220)
+Balanced region matrix shape: (100, 100)

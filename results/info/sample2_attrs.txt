@@ -1,0 +1,61 @@
+'@attrs':
+  bin-size: 10000
+  bin-type: fixed
+  creation-date: 2024-03-02 09:47:35.430518
+  format: HDF5::Cooler
+  format-url: https://github.com/mirnylab/cooler
+  format-version: 3
+  generated-by: cooler-0.8.3
+  genome-assembly: unknown
+  metadata: {}
+  nbins: 272564
+  nchroms: 21
+  nnz: 128699895
+  storage-mode: symmetric-upper
+  sum: 212791328
+bins:
+  '@attrs': {}
+  KR:
+    '@attrs': {}
+  VC:
+    '@attrs': {}
+  VC_SQRT:
+    '@attrs': {}
+  chrom:
+    '@attrs': {}
+  end:
+    '@attrs': {}
+  start:
+    '@attrs': {}
+  weight:
+    '@attrs':
+      cis_only: false
+      converged: true
+      ignore_diags: 2
+      mad_max: 5
+      min_count: 0
+      min_nnz: 10
+      scale: 1725.796196843324
+      tol: 1.0e-05
+      var: 8.49627518538654e-06
+chroms:
+  '@attrs': {}
+  length:
+    '@attrs': {}
+  name:
+    '@attrs': {}
+indexes:
+  '@attrs': {}
+  bin1_offset:
+    '@attrs': {}
+  chrom_offset:
+    '@attrs': {}
+pixels:
+  '@attrs': {}
+  bin1_id:
+    '@attrs': {}
+  bin2_id:
+    '@attrs': {}
+  count:
+    '@attrs': {}
+
